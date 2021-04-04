@@ -1,0 +1,18 @@
+name: PracticePluginV2
+version: ${project.version}
+main: de.legoshi.practicepluginv2.Main
+authors: [Legoshi]
+description: Practice Plugin
+
+commands:
+  practice:
+    aliases: [p]
+    description: sets in jump/build mode
+  jumpedge:
+    aliases: [je]
+    description: eeeee
+  jumpfront:
+    aliases: [jf]
+    description: eeeeee
+  tier:
+    description: Calculates the Tier of a Jump
